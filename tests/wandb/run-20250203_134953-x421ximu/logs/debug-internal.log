@@ -1,0 +1,91 @@
+{"time":"2025-02-03T13:49:54.2906872+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"c:\\Users\\hamid\\OneDrive\\Documents\\ai-surveyor\\tests\\wandb\\run-20250203_134953-x421ximu\\logs\\debug-core.log"}
+{"time":"2025-02-03T13:49:54.5257578+02:00","level":"INFO","msg":"created new stream","id":"x421ximu"}
+{"time":"2025-02-03T13:49:54.5257578+02:00","level":"INFO","msg":"stream: started","id":"x421ximu"}
+{"time":"2025-02-03T13:49:54.5257578+02:00","level":"INFO","msg":"sender: started","stream_id":"x421ximu"}
+{"time":"2025-02-03T13:49:54.5257578+02:00","level":"INFO","msg":"handler: started","stream_id":"x421ximu"}
+{"time":"2025-02-03T13:49:54.5257578+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"x421ximu"}
+{"time":"2025-02-03T13:49:54.9998754+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-03T13:49:55.147846+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:51:19.3556603+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:51:21.8498745+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:56:03.2432381+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:56:03.2733946+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:56:15.9137679+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:56:15.9283349+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:56:56.4828001+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:13.0068224+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:29.2449267+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:29.2478067+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:29.2608623+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:29.2723482+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:29.2984282+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:29.3038355+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:29.5557015+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:29.5585936+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:30.2437672+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:30.250203+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:30.2577378+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:30.2610096+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:30.3176786+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:30.3213467+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:30.3839322+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:30.3882515+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:30.8430626+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:30.8458397+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:31.0301291+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:31.0332074+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:35.5199666+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:35.5246702+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:35.535242+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:35.5385283+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:35.8191555+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:35.8232436+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:35.96796+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:35.9705949+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:36.0984462+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:36.1010284+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:36.3097521+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:36.3125206+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:57:40.1106579+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:57:56.3908236+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:58:25.3177919+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:58:25.323454+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:58:29.8091613+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:58:29.8133498+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:58:31.8460868+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:58:31.8509443+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T13:58:34.5288622+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T13:58:52.1789727+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T14:00:59.3671297+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T14:01:16.5424778+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T14:01:22.5319339+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T14:01:22.5600368+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T14:25:56.1779036+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-03T14:56:12.3765672+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T14:56:12.4036952+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T14:56:41.2447277+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T14:57:28.8108278+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T14:58:10.7741894+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-03T14:58:10.7883129+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-03T17:42:51.1533809+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-03T17:42:51.836395+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.73.76:11062->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-02-03T17:42:53.5184869+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:42:53.8540539+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:42:58.1796403+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:42:58.3224777+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:43:07.2608318+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:43:07.7249564+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:43:23.625495+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:43:25.8876065+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:43:59.9492753+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:44:00.3442243+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:44:59.9516687+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:45:00.3445544+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:45:59.9541611+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:46:00.3451368+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:46:59.9581311+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:47:00.3456377+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:47:59.9627155+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:48:00.3460848+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:49:12.0035315+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/DeepSeek-R1-Distill-Llama-8B-ft%20for%20Surveying/x421ximu/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-03T17:49:12.0035315+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}

@@ -1,9 +1,14 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
+import os 
 
-# Load and save the model and tokenizer
-tokenizer = AutoTokenizer.from_pretrained("deepseek-ai/DeepSeek-R1-Distill-Llama-8B")
-model = AutoModelForCausalLM.from_pretrained("deepseek-ai/DeepSeek-R1-Distill-Llama-8B")
+model_name = "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name)
 
-# Save locally
-tokenizer.save_pretrained("./local_model/tokenizer")
-model.save_pretrained("./local_model/model")
+cache_dir = os.path.join(os.path.expanduser("~"), ".cache", "huggingface", "transformers")
+
+print(f"Tokenizer path: {os.path.join(cache_dir, model_name, 'tokenizer')}")
+print(f"Model path: {os.path.join(cache_dir, model_name, 'model')}")
+
+# tokenizer.save_pretrained("./local_model/tokenizer")
+# model.save_pretrained("./local_model/model")

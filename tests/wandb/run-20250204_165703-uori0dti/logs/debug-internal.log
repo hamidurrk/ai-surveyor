@@ -1,0 +1,10 @@
+{"time":"2025-02-04T16:57:03.6606567+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"c:\\Users\\hamid\\OneDrive\\Documents\\ai-surveyor\\tests\\wandb\\run-20250204_165703-uori0dti\\logs\\debug-core.log"}
+{"time":"2025-02-04T16:57:03.9153732+02:00","level":"INFO","msg":"created new stream","id":"uori0dti"}
+{"time":"2025-02-04T16:57:03.915457+02:00","level":"INFO","msg":"stream: started","id":"uori0dti"}
+{"time":"2025-02-04T16:57:03.915457+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"uori0dti"}
+{"time":"2025-02-04T16:57:03.915457+02:00","level":"INFO","msg":"handler: started","stream_id":"uori0dti"}
+{"time":"2025-02-04T16:57:03.915457+02:00","level":"INFO","msg":"sender: started","stream_id":"uori0dti"}
+{"time":"2025-02-04T16:57:04.3993271+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-04T16:57:04.4881829+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T17:09:13.2010645+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T17:10:06.6464679+02:00","level":"INFO","msg":"Pausing system monitor"}
