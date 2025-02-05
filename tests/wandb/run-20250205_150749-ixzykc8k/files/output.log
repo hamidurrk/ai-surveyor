@@ -1,0 +1,21 @@
+Generating train split: 40245 examples [00:00, 1038902.04 examples/s]
+{40245}
+Map: 100%|██████████| 32196/32196 [00:06<00:00, 4926.78 examples/s]
+Map: 100%|██████████| 8049/8049 [00:01<00:00, 5140.80 examples/s]
+c:\Users\hamid\OneDrive\Documents\ai-surveyor\env\Lib\site-packages\accelerate\utils\modeling.py:1536: UserWarning: Current model requires 64 bytes of buffer for offloaded layers, which seems does not fit any GPU's remaining memory. If you are experiencing a OOM later, please consider using offload_buffers=True.
+  warnings.warn(
+c:\Users\hamid\OneDrive\Documents\ai-surveyor\env\Lib\site-packages\accelerate\utils\modeling.py:1536: UserWarning: Current model requires 64 bytes of buffer for offloaded layers, which seems does not fit any GPU's remaining memory. If you are experiencing a OOM later, please consider using offload_buffers=True.
+  warnings.warn(
+trainable params: 1,089,536 || all params: 1,778,177,536 || trainable%: 0.0613
+c:\Users\hamid\OneDrive\Documents\ai-surveyor\env\Lib\site-packages\transformers\training_args.py:1575: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+wandb: Currently logged in as: awsed-aq (awsed-aq-lut-university) to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+{40245}
+Map: 100%|██████████| 32196/32196 [00:06<00:00, 4948.51 examples/s]
+Map: 100%|██████████| 8049/8049 [00:01<00:00, 5186.40 examples/s]
+c:\Users\hamid\OneDrive\Documents\ai-surveyor\env\Lib\site-packages\accelerate\utils\modeling.py:1536: UserWarning: Current model requires 64 bytes of buffer for offloaded layers, which seems does not fit any GPU's remaining memory. If you are experiencing a OOM later, please consider using offload_buffers=True.
+  warnings.warn(
+trainable params: 1,089,536 || all params: 1,778,177,536 || trainable%: 0.0613
+c:\Users\hamid\OneDrive\Documents\ai-surveyor\env\Lib\site-packages\transformers\training_args.py:1575: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+trainable params: 1,089,536 || all params: 1,778,177,536 || trainable%: 0.0613

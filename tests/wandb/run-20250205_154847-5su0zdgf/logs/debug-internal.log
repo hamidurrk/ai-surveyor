@@ -1,0 +1,44 @@
+{"time":"2025-02-05T15:48:47.8602305+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"c:\\Users\\hamid\\OneDrive\\Documents\\ai-surveyor\\tests\\wandb\\run-20250205_154847-5su0zdgf\\logs\\debug-core.log"}
+{"time":"2025-02-05T15:48:47.9690604+02:00","level":"INFO","msg":"created new stream","id":"5su0zdgf"}
+{"time":"2025-02-05T15:48:47.9690604+02:00","level":"INFO","msg":"stream: started","id":"5su0zdgf"}
+{"time":"2025-02-05T15:48:47.9690604+02:00","level":"INFO","msg":"handler: started","stream_id":"5su0zdgf"}
+{"time":"2025-02-05T15:48:47.9690604+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"5su0zdgf"}
+{"time":"2025-02-05T15:48:47.9690604+02:00","level":"INFO","msg":"sender: started","stream_id":"5su0zdgf"}
+{"time":"2025-02-05T15:48:48.4329316+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-05T15:48:49.2819413+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:48:49.2877865+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T15:48:51.4457001+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:48:51.4526788+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T15:48:51.7500518+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:48:51.7580492+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T15:48:57.1507472+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:48:57.1565708+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T15:48:57.3183073+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:48:57.3249006+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T15:48:57.4449257+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:48:57.449944+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T15:48:57.5447064+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:48:57.5512468+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T15:49:21.7486722+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:49:30.7329892+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T15:51:51.1374778+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:52:43.8913697+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T15:52:43.9277172+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:52:47.8805939+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T15:52:47.8895299+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T15:52:51.2818711+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T16:02:55.9448827+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T16:04:46.1585245+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T16:04:46.161259+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T16:04:46.3537317+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T16:04:46.3568428+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T16:05:00.0425189+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T16:05:00.6829284+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T16:05:31.6819828+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T16:05:31.6869022+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T16:05:31.8284787+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T16:05:31.8310756+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T16:05:49.2186184+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-05T16:06:04.9558905+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-05T16:06:44.757613+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/awsed-aq-lut-university/ai-surveyor-deepseek-1.5B/5su0zdgf/file_stream\": read tcp 10.127.127.76:1841->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-02-05T16:46:43.7719035+02:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/awsed-aq-lut-university/ai-surveyor-deepseek-1.5B/5su0zdgf/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}

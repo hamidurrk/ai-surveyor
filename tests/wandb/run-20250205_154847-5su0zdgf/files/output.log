@@ -1,0 +1,9 @@
+Generating train split: 100 examples [00:00, 197286.17 examples/s]
+{100}
+Map: 100%|██████████| 80/80 [00:00<00:00, 1754.23 examples/s]
+Map: 100%|██████████| 20/20 [00:00<00:00, 816.99 examples/s]
+trainable params: 1,089,536 || all params: 1,778,177,536 || trainable%: 0.0613
+c:\Users\hamid\OneDrive\Documents\ai-surveyor\env\Lib\site-packages\transformers\training_args.py:1575: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+{'../deepseek_finetuned_v1'}
+{'../deepseek_finetuned_full'}
