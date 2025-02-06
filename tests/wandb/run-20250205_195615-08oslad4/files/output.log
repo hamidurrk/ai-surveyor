@@ -1,0 +1,39 @@
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+c:\Users\hamid\OneDrive\Documents\ai-surveyor\env\Lib\site-packages\transformers\generation\utils.py:2137: UserWarning: You are calling .generate() with the `input_ids` being on a device type different than your model's device. `input_ids` is on cuda, whereas the model is on cpu. You may experience unexpected behaviors or slower generation. Please make sure that you have put `input_ids` to the correct device by calling for example input_ids = input_ids.to('cpu') before running `.generate()`.
+  warnings.warn(
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  4.17it/s]
+User: Who are you?
+Assistant: I'm DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek. I'll do my best to help you.
+</think>
+
+I am DeepSeek-R1-Lite-Preview, an AI assistant created exclusively by the Chinese Company DeepSeek. For comprehensive details about our models and products, please refer to our official documentation.
+Requirement already satisfied: transformers in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (4.48.2)
+
+[notice] A new release of pip is available: 23.2.1 -> 25.0
+Requirement already satisfied: filelock in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from transformers) (3.17.0)
+[notice] To update, run: python.exe -m pip install --upgrade pip
+Requirement already satisfied: huggingface-hub<1.0,>=0.24.0 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from transformers) (0.28.1)
+Requirement already satisfied: numpy>=1.17 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from transformers) (2.2.2)
+Requirement already satisfied: packaging>=20.0 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from transformers) (24.2)
+Requirement already satisfied: pyyaml>=5.1 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from transformers) (6.0.2)
+Requirement already satisfied: regex!=2019.12.17 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from transformers) (2024.11.6)
+Requirement already satisfied: requests in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from transformers) (2.32.3)
+Requirement already satisfied: tokenizers<0.22,>=0.21 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from transformers) (0.21.0)
+Requirement already satisfied: safetensors>=0.4.1 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from transformers) (0.5.2)
+Requirement already satisfied: tqdm>=4.27 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from transformers) (4.67.1)
+Requirement already satisfied: fsspec>=2023.5.0 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from huggingface-hub<1.0,>=0.24.0->transformers) (2024.9.0)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from huggingface-hub<1.0,>=0.24.0->transformers) (4.12.2)
+Requirement already satisfied: colorama in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from tqdm>=4.27->transformers) (0.4.6)
+Requirement already satisfied: charset-normalizer<4,>=2 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from requests->transformers) (3.4.1)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from requests->transformers) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from requests->transformers) (2.3.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\hamid\onedrive\documents\ai-surveyor\env\lib\site-packages (from requests->transformers) (2025.1.31)
+Note: you may need to restart the kernel to use updated packages.
+The model was loaded with use_flash_attention_2=True, which is deprecated and may be removed in a future release. Please use `attn_implementation="flash_attention_2"` instead.
+c:\Users\hamid\OneDrive\Documents\ai-surveyor\env\Lib\site-packages\accelerate\utils\modeling.py:1536: UserWarning: Current model requires 32.0 bytes of buffer for offloaded layers, which seems does not fit any GPU's remaining memory. If you are experiencing a OOM later, please consider using offload_buffers=True.
+  warnings.warn(
+Loading checkpoint shards: 100%|██████████| 2/2 [00:24<00:00, 12.12s/it]
