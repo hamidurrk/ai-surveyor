@@ -1,11 +1,11 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
-import torch
+# import torch
 
 tokenizer = AutoTokenizer.from_pretrained("./local_model/tokenizer")
 model = AutoModelForCausalLM.from_pretrained("./local_model/model")
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model.to(device)
+# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# model.to(device)
 
 def generate_response(prompt, max_length=50):
     inputs = tokenizer(prompt, return_tensors="pt")

@@ -1,11 +1,2 @@
 .venv
-env
 .history
-local_model
-api
-test_model
-data
-deepseek_finetuned
-deepseek_finetuned_full
-deepseek_finetuned_v1
-llama.cpp
