@@ -1,2 +1,4 @@
 .venv
 .history
+surveys.db
+__pycache__/
